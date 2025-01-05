@@ -1,0 +1,22 @@
+# Environment variables
+.env
+
+# Service account keys
+service-account-key.json
+
+# Temporary files
+tmp/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# Docker
+.dockerignore
+
+# IDE specific files
+.vscode/
+.idea/
